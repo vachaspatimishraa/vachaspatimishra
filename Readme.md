@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Vachaspati Mishra 👋</h1>
 <p align="center">
-🚀 Final Year CSE Student @ IIT | Full Stack Developer | AI & ML Enthusiast  
+🚀 Final Year CSE Student @ PITM | Full Stack Developer | AI & ML Enthusiast  
 🎯 Target: Big Tech, AI-powered products, Atlassian  
 💡 Building projects that blend creativity, AI, and solid engineering
 </p>
