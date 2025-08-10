@@ -50,9 +50,9 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Bujji Desktop Assistant](https://github.com/yourusername/bujji)
-AI-powered voice assistant with emotions, animations, and natural interactions.  
-**Tech:** Python, Eel, HTML/CSS/JS, SpeechRecognition, pyttsx3  
+### 🤖 [Fake Job Fraud Detection](https://github.com/yourusername/bujji)
+ML-powered tool to detect fraudulent job postings.
+Uses NLP techniques for classification based on job description features. 
 
 ### 📰 [Multi-Perspective News App](https://github.com/yourusername/news-app)
 See news from left, right, and neutral perspectives with AI summarization.  
@@ -73,12 +73,12 @@ ML-powered plugin for Adobe Creative Cloud apps to detect & prevent vulnerabilit
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vachaspatimishra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vachaspatimishra@hotmail.com)
 
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/yourusername">Atul</a> with ❤️
+⭐ From <a href="https://github.com/yourusername">Vachas</a> with ❤️
 </p>
