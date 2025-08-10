@@ -1,18 +1,18 @@
 <h1 align="center">Hey there, I'm Vachaspati Mishra 👋</h1>
 <p align="center">
-🚀 Final Year CSE Student @ PITM | Full Stack Developer | AI & ML Enthusiast  
-🎯 Target: Big Tech, AI-powered products, Atlassian  
+🚀 Final Year CSE Student @ PITM | Full Stack Developer | Android & Java Enthusiast  
+🎯 Target: Big Tech, AI-powered products, Paytm  
 💡 Building projects that blend creativity, AI, and solid engineering
 </p>
 
 ---
 
 ## 🏆 Achievements & Highlights
-- 🥇 **Winner / Finalist** in multiple hackathons (Smart India Hackathon, Adobe India Hackathon, etc.)
-- 💼 **Internships:** SDE Intern @ Bluestocks, Full Stack Intern @ CodeSalpha  
+- 🥇 **Fianlist/Runnerup** in multiple hackathons (Smart India Hackathon, Adobe India Hackathon, etc.)
+- 💼 **Internships:** Java Development Intern @ Netcamp, Flutter & Andoid Intern @ Bluestocks  
 - 🤖 Creator of **Bujji** – a cute, emotionally responsive desktop assistant  
 - 📰 Built **Multi-Perspective News App** – AI + MERN stack  
-- 🔐 Developed **SecureFlow** – ML-powered Adobe plugin for real-time security checks  
+- 🔐 Developed **Job Guard** – ML-powered fake Job Description Webapp  
 
 ---
 
