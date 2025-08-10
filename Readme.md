@@ -74,7 +74,7 @@ ML-powered plugin for Adobe Creative Cloud apps to detect & prevent vulnerabilit
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vachaspatimishra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)]([https://your-portfolio-link.com](https://timely-cat-0381a3.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)]((https://timely-cat-0381a3.netlify.app/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vachaspatimishra@hotmail.com)
 
 ---
