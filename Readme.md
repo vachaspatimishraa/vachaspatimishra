@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Vachaspati Mishra 👋</h1>
 <p align="center">
-🚀 Final Year CSE Student @ PITM | Full Stack Developer | Android & Java Enthusiast  
-🎯 Target: Big Tech, AI-powered products, Paytm  
+🚀 Final Year CSE Student @ PITM | Full Stack Developer | Android & Flutter Enthusiast  
+🎯 Target: Big Tech, AI-powered products 
 💡 Building projects that blend creativity, AI, and solid engineering
 </p>
 
@@ -10,27 +10,24 @@
 ## 🏆 Achievements & Highlights
 - 🥇 **Fianlist/Runnerup** in multiple hackathons (Smart India Hackathon, Adobe India Hackathon, etc.)
 - 💼 **Internships:** Java Development Intern @ Netcamp, Flutter & Andoid Intern @ Bluestocks  
-- 🤖 Creator of **Bujji** – a cute, emotionally responsive desktop assistant  
-- 📰 Built **Multi-Perspective News App** – AI + MERN stack  
-- 🔐 Developed **Job Guard** – ML-powered fake Job Description Webapp  
+- 🤖 Creator of **Prepmate AI** – your partner in your job searching journey  
+- 📰 Built **Vibely** – a social chat app 
+- 🔐 Developed **Note Taking App** – By using Crud Funtionality  
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](#3776AB)
+![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,6 +42,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
