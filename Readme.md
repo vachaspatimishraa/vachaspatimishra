@@ -78,5 +78,5 @@ ML-powered plugin for Adobe Creative Cloud apps to detect & prevent vulnerabilit
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/yourusername">Vachas</a> with ❤️
+⭐ From <a href="https://github.com/yourusername">Vachaspatimishraa</a> with ❤️
 </p>
